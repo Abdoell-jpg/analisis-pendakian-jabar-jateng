@@ -1,6 +1,6 @@
 nama_gunung,provinsi,peringkat_ketinggian,ketinggian_mdpl,harga_tiket_wni_weekday,harga_tiket_wni_weekend,isu_pungli
 Gunung Ciremai,Jawa Barat,1,3078,110000,120000,Ada
-Gunung Pangrango,Jawa Barat,2,3019,,,Tidak Ada
+Gunung Pangrango,Jawa Barat,2,3019,72000,92000,Tidak Ada
 Gunung Gede,Jawa Barat,3,2958,72000,92000,Ada
 Gunung Cikuray,Jawa Barat,4,2818,20000,20000,Tidak Ada
 Gunung Papandayan,Jawa Barat,5,2665,30000,40000,Tidak Ada
