@@ -1,0 +1,15 @@
+nama_gunung,provinsi,peringkat_ketinggian,ketinggian_mdpl,harga_tiket_wni_min,harga_tiket_wni_max,isu_pungli
+Gunung Ciremai,Jawa Barat,1,3078,120000,120000,Ada
+Gunung Pangrango,Jawa Barat,2,3019,,,Tidak Ada
+Gunung Gede,Jawa Barat,3,2958,72000,92000,Ada
+Gunung Cikuray,Jawa Barat,4,2818,20000,20000,Tidak Ada
+Gunung Papandayan,Jawa Barat,5,2665,30000,40000,Tidak Ada
+Gunung Kendang,Jawa Barat,6,2618,,,Tidak Ada
+Gunung Patuha,Jawa Barat,7,2434,25000,30000,Tidak Ada
+Gunung Slamet,Jawa Tengah,1,3428,25000,25000,Tidak Ada
+Gunung Sumbing,Jawa Tengah,2,3371,25000,35000,Tidak Ada
+Gunung Lawu,Jawa Tengah,3,3265,15000,25000,Tidak Ada
+Gunung Sindoro,Jawa Tengah,4,3150,25000,35000,Tidak Ada
+Gunung Merbabu,Jawa Tengah,5,3145,20000,65000,Tidak Ada
+Gunung Merapi,Jawa Tengah,6,2930,,,Tidak Ada
+Gunung Prau,Jawa Tengah,7,2565,25000,35000,Tidak Ada
